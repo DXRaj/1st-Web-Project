@@ -138,3 +138,8 @@ hr{
     margin: 70px auto 70px auto;
 
 }
+.suit-pic{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
